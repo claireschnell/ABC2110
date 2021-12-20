@@ -31,6 +31,20 @@ public class Moyenne {
 		//TRAITEMENT
 		//moyenne <--(nombre1+nombre2)/2
 		moyenne = (nombre1+nombre2)/2;
+		//SI (moyenne>=10) Alors
+		if (moyenne>=10) {
+		
+		//
+		}
+		//Sinon
+		else {
+		  // moyenne <-- moyenne+1
+			moyenne = moyenne +1;
+		
+		//FinSI
+		}
+		
+		
 		
 		//AFFICHAGE
 		//écrire "la valeur moyenne est : ",moyenne"
